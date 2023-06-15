@@ -1,0 +1,342 @@
+.our-videos {
+  position: absolute;
+  top: 430px;
+  left: 440px;
+  font-size: 96px;
+  color: var(--color-orangered-100);
+}
+.videos-child,
+.videos-item,
+.w2 {
+  position: absolute;
+  top: 1363px;
+  width: 625px;
+  height: 507px;
+}
+.videos-child {
+  left: 64px;
+  background-image: url(./public/rectangle-32@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.videos-item,
+.w2 {
+  left: 765px;
+}
+.videos-item {
+  background-image: url(./public/rectangle-33@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.w2 {
+  text-decoration: underline;
+  font-weight: 700;
+  color: inherit;
+  display: none;
+}
+.videos-inner {
+  position: absolute;
+  top: 614px;
+  left: 207px;
+  width: 1052px;
+  height: 635px;
+  background-image: url(./public/rectangle-34@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.g,
+.yt {
+  position: absolute;
+  text-decoration: underline;
+  font-weight: 700;
+  color: inherit;
+  display: none;
+}
+.yt {
+  top: 617px;
+  left: 207px;
+  font-size: 500px;
+  width: 1052px;
+}
+.g {
+  top: 1363px;
+  left: 61px;
+  width: 625px;
+  height: 507px;
+}
+.nav-buttons-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-midnightblue-100);
+  width: 1440px;
+  height: 219.88px;
+}
+.logo-icon2 {
+  position: absolute;
+  top: 13px;
+  left: 52.45px;
+  border-radius: var(--br-481xl);
+  width: 188.45px;
+  height: 188px;
+  object-fit: cover;
+}
+.about-us2,
+.contact-us3,
+.donate2,
+.home2,
+.services2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 180.87px;
+  left: 1267.04px;
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  font-family: var(--font-outfit);
+  color: var(--color-ghostwhite);
+  text-align: center;
+  display: inline-block;
+  width: 107.51px;
+  height: 29.55px;
+}
+.about-us2,
+.contact-us3,
+.home2,
+.services2 {
+  left: 1075.05px;
+  width: 159.99px;
+}
+.about-us2,
+.home2,
+.services2 {
+  left: 787.07px;
+  width: 120.31px;
+}
+.about-us2,
+.home2 {
+  left: 629.64px;
+  width: 127.99px;
+}
+.home2 {
+  left: 528.53px;
+  width: 78.08px;
+}
+.nav-buttons2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 219.88px;
+}
+.gallery2 {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-outfit);
+  color: var(--color-white);
+  text-align: center;
+}
+.frame-inner {
+  position: relative;
+  width: 31.66px;
+  height: 13.05px;
+}
+.gallery-container {
+  position: absolute;
+  height: 23.21%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 76.79%;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-mini) var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-smi);
+}
+.photos2 {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-outfit);
+  color: var(--color-black);
+  text-align: center;
+}
+.frame-container,
+.photos-frame {
+  box-sizing: border-box;
+  justify-content: flex-start;
+}
+.photos-frame {
+  width: 154px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-mini) var(--padding-3xs);
+  align-items: center;
+  cursor: pointer;
+}
+.frame-container {
+  position: absolute;
+  height: 46.41%;
+  width: 100%;
+  top: 23.21%;
+  right: 0;
+  bottom: 30.38%;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  display: none;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.component-12 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 166px;
+  left: 927.88px;
+  width: 154px;
+  height: 237px;
+}
+.navbar2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 220px;
+}
+.we-save-animals2 {
+  position: absolute;
+  top: 326px;
+  left: 447px;
+}
+.end-nav-inner,
+.image-21-icon2 {
+  position: absolute;
+  top: 298px;
+  left: 126.99px;
+  width: 1236.01px;
+  height: 7px;
+}
+.image-21-icon2 {
+  top: 82px;
+  left: 28px;
+  border-radius: var(--br-481xl);
+  width: 159.21px;
+  height: 150px;
+  object-fit: cover;
+}
+.follow-us2 {
+  position: absolute;
+  top: 46px;
+  left: 5px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+}
+.image-24-icon2 {
+  position: absolute;
+  top: 26px;
+  left: 299px;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.image-23-icon2 {
+  top: 26px;
+  left: 439px;
+  border-radius: var(--br-8xs);
+  width: 70px;
+  height: 60px;
+}
+.image-22-icon2,
+.image-23-icon2,
+.image-25-icon2 {
+  position: absolute;
+  object-fit: cover;
+  cursor: pointer;
+}
+.image-25-icon2 {
+  top: 26px;
+  left: 589px;
+  border-radius: var(--br-8xs);
+  width: 73.71px;
+  height: 60px;
+}
+.image-22-icon2 {
+  top: 16px;
+  left: 743px;
+  width: 70px;
+  height: 70px;
+}
+.b2,
+.f2,
+.n2,
+.w3 {
+  position: absolute;
+  top: 16px;
+  left: 309px;
+  text-decoration: underline;
+  font-weight: 700;
+  color: inherit;
+  display: none;
+  width: 50px;
+}
+.b2,
+.n2,
+.w3 {
+  left: 437px;
+  width: 74px;
+}
+.b2,
+.w3 {
+  top: 20px;
+  left: 590px;
+  height: 66px;
+}
+.w3 {
+  top: 11px;
+  left: 746px;
+  width: 65px;
+  height: 70px;
+}
+.end-nav2,
+.follow2 {
+  position: absolute;
+  top: 111px;
+  left: 360px;
+  width: 879px;
+  height: 91px;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+}
+.end-nav2 {
+  top: 2049px;
+  left: 0;
+  background-color: var(--color-midnightblue-100);
+  width: 1443px;
+  height: 448px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.videos2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2497px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-381xl);
+  color: var(--color-black);
+  font-family: var(--font-outfit);
+}

@@ -1,0 +1,358 @@
+.reviews-child,
+.reviews2 {
+  position: absolute;
+  top: 329px;
+  left: 591px;
+}
+.reviews-child {
+  top: 454px;
+  left: 105px;
+  background-color: var(--color-orangered-100);
+  width: 1233px;
+  height: 692px;
+}
+.image-31-icon {
+  position: absolute;
+  top: 0;
+  left: 167px;
+  width: 198px;
+  height: 192px;
+  object-fit: cover;
+}
+.i-have-been,
+.tejaswini {
+  position: absolute;
+  top: 66px;
+  left: 397px;
+}
+.i-have-been {
+  top: 200px;
+  left: 217px;
+  font-size: var(--font-size-6xl);
+  display: inline-block;
+  width: 1065px;
+  height: 446px;
+}
+.reviews-item {
+  position: absolute;
+  top: 734px;
+  left: 103px;
+  background-color: var(--color-forestgreen-200);
+  width: 1233px;
+  height: 692px;
+}
+.image-32-icon {
+  position: absolute;
+  top: 779px;
+  left: 174px;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+.i-have-visited,
+.tharinisiri {
+  position: absolute;
+  top: 839px;
+  left: 401px;
+}
+.i-have-visited {
+  top: 972px;
+  left: 305px;
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+  width: 959px;
+}
+.we-save-animals1 {
+  position: absolute;
+  top: 326px;
+  left: 447px;
+}
+.end-nav-item,
+.image-21-icon1 {
+  position: absolute;
+  top: 298px;
+  left: 126.99px;
+  width: 1236.01px;
+  height: 7px;
+}
+.image-21-icon1 {
+  top: 82px;
+  left: 28px;
+  border-radius: var(--br-481xl);
+  width: 159.21px;
+  height: 150px;
+  object-fit: cover;
+}
+.follow-us1 {
+  position: absolute;
+  top: 46px;
+  left: 5px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+}
+.image-24-icon1 {
+  position: absolute;
+  top: 26px;
+  left: 299px;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.image-23-icon1 {
+  top: 26px;
+  left: 439px;
+  border-radius: var(--br-8xs);
+  width: 70px;
+  height: 60px;
+}
+.image-22-icon1,
+.image-23-icon1,
+.image-25-icon1 {
+  position: absolute;
+  object-fit: cover;
+  cursor: pointer;
+}
+.image-25-icon1 {
+  top: 26px;
+  left: 589px;
+  border-radius: var(--br-8xs);
+  width: 73.71px;
+  height: 60px;
+}
+.image-22-icon1 {
+  top: 16px;
+  left: 743px;
+  width: 70px;
+  height: 70px;
+}
+.b1,
+.f1,
+.n1 {
+  text-decoration: underline;
+  font-weight: 700;
+  color: inherit;
+  display: none;
+}
+.f1 {
+  position: absolute;
+  top: 16px;
+  left: 309px;
+  width: 50px;
+}
+.b1,
+.n1 {
+  width: 74px;
+}
+.n1 {
+  position: absolute;
+  top: 16px;
+  left: 437px;
+}
+.b1 {
+  top: 20px;
+  left: 590px;
+  height: 66px;
+}
+.b1,
+.follow1,
+.w1 {
+  position: absolute;
+}
+.w1 {
+  text-decoration: underline;
+  top: 11px;
+  left: 746px;
+  font-weight: 700;
+  color: inherit;
+  display: none;
+  width: 65px;
+  height: 70px;
+}
+.follow1 {
+  top: 111px;
+  left: 360px;
+  width: 879px;
+  height: 91px;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+}
+.end-nav1,
+.reviews3 {
+  position: absolute;
+  width: 1443px;
+}
+.end-nav1 {
+  top: 1500px;
+  left: 0;
+  background-color: var(--color-midnightblue-100);
+  height: 448px;
+  font-size: var(--font-size-xl);
+}
+.reviews3 {
+  top: 477px;
+  left: -3px;
+  height: 1948px;
+  text-align: center;
+  color: var(--color-white);
+}
+.nav-buttons-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-midnightblue-100);
+  width: 1451.86px;
+  height: 219.88px;
+}
+.logo-icon1 {
+  position: absolute;
+  top: 13px;
+  left: 52.88px;
+  border-radius: var(--br-481xl);
+  width: 190px;
+  height: 188px;
+  object-fit: cover;
+}
+.about-us1,
+.contact-us2,
+.donate1,
+.home1,
+.services1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 180.87px;
+  left: 1277.48px;
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  font-family: var(--font-outfit);
+  color: var(--color-ghostwhite);
+  text-align: center;
+  display: inline-block;
+  width: 108.4px;
+  height: 29.55px;
+}
+.about-us1,
+.contact-us2,
+.home1,
+.services1 {
+  left: 1083.91px;
+  width: 161.31px;
+}
+.about-us1,
+.home1,
+.services1 {
+  left: 793.56px;
+  width: 121.3px;
+}
+.about-us1,
+.home1 {
+  left: 634.83px;
+  width: 129.05px;
+}
+.home1 {
+  left: 532.88px;
+  width: 78.72px;
+}
+.nav-buttons1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1451.86px;
+  height: 219.88px;
+}
+.gallery1 {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-outfit);
+  color: var(--color-white);
+  text-align: center;
+}
+.frame-item {
+  position: relative;
+  width: 31.66px;
+  height: 13.05px;
+}
+.gallery-group {
+  position: absolute;
+  height: 23.21%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 76.79%;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-mini) var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-smi);
+  cursor: pointer;
+}
+.photos1 {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-outfit);
+  color: var(--color-black);
+  text-align: center;
+}
+.frame-group,
+.photos-container {
+  box-sizing: border-box;
+  justify-content: flex-start;
+}
+.photos-container {
+  width: 154px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-mini) var(--padding-3xs);
+  align-items: center;
+  cursor: pointer;
+}
+.frame-group {
+  position: absolute;
+  height: 46.41%;
+  width: 100%;
+  top: 23.21%;
+  right: 0;
+  bottom: 30.38%;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  display: none;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.component-11 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 166px;
+  left: 927.88px;
+  width: 154px;
+  height: 237px;
+}
+.navbar1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 220px;
+}
+.reviews1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2421px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-forestgreen-100);
+  font-family: var(--font-outfit);
+}
